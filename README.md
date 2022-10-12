@@ -8,7 +8,7 @@ Pour récupèrer, on utilise Git. On s'assure d'être dans le bon dossier avant 
 
 ```
 cd C:\Users\Administrateur\Code
-git clone https://github.com/SmagaMichael/Angupex.git
+git clone https://github.com/https://github.com/tayyib57/Angular
 ```
 
 On n'oublie pas d'installer les dépendances du projet :
