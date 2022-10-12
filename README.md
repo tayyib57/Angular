@@ -1,6 +1,4 @@
-# Angupex
-
-Petit projet pour découvrir Angular...
+# # # # # # # Petit projet pour découvrir Angular... # # # # # # # # # # # # # # # # # # # # # # # # 
 
 ## Récupèration du projet
 
